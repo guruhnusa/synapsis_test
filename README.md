@@ -23,7 +23,8 @@ Run the following commands from your terminal:
 
 Full demo :
 
-##Screenshot
+
+## Screenshot
 
 <div style="display: flex; flex-direction: row; justify-content: flex-start;">
     <img src="https://user-images.githubusercontent.com/91832107/280463639-bc98c764-2b51-4879-8981-70b2a61142de.png" width="200" style="max-width:100%;">
