@@ -1,16 +1,30 @@
-# synapsis_test
 
-A new Flutter project.
+# Synapsis Survey Apps
 
-## Getting Started
+## Setup
 
-This project is a starting point for a Flutter application.
+Run the following commands from your terminal:
 
-A few resources to get you started if this is your first Flutter project:
+1) `git clone https://github.com/guruhnusa/synapsis_test` to clone this repository 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2) `flutter pub get` in the project root directory to install all the required dependencies.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+## Dependencies
+
+- get: 4.6.6
+- google_fonts: 6.1.0
+- http: 1.1.0
+- dio: 5.3.3
+- get_storage: 2.1.1
+- intl: 0.18.1
+## Demo
+
+Insert gif or link to demo
+
+## Screenshots
+
+<img src="https://user-images.githubusercontent.com/91832107/280463639-bc98c764-2b51-4879-8981-70b2a61142de.png" width="300" style="max-width:100%;">
