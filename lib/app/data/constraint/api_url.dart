@@ -1,0 +1,1 @@
+const BASE_URL = "https://panel-demo.obsight.com/api/";
