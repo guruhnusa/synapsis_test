@@ -17,7 +17,13 @@ Run the following commands from your terminal:
 - get_storage: 2.1.1
 - intl: 0.18.1
 
+## Demo
+
 ![GIF](https://user-images.githubusercontent.com/91832107/280464930-ce516522-b35b-4722-b092-140ecc01b60a.gif)
+
+Full demo :
+
+##Screenshot
 
 <div style="display: flex; flex-direction: row; justify-content: flex-start;">
     <img src="https://user-images.githubusercontent.com/91832107/280463639-bc98c764-2b51-4879-8981-70b2a61142de.png" width="200" style="max-width:100%;">
