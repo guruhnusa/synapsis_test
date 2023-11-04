@@ -27,7 +27,7 @@ Full demo :
 ## Screenshot
 
 <div style="display: flex; flex-direction: row; justify-content: flex-start;">
-    <img src="https://user-images.githubusercontent.com/91832107/280463639-bc98c764-2b51-4879-8981-70b2a61142de.png" width="200" style="max-width:100%;">
+    <img src="https://user-images.githubusercontent.com/91832107/280463877-1d29eede-0ff5-4f3e-8f51-1edbb28f8249.png" width="200" style="max-width:100%;">
     <img src="https://user-images.githubusercontent.com/91832107/280463639-bc98c764-2b51-4879-8981-70b2a61142de.png" width="200" style="max-width:100%;">
     <img src="https://user-images.githubusercontent.com/91832107/280463882-7407d2ee-e8f9-4361-9cd0-166e6eac0f6b.png" width="200" style="max-width:100%;">
     <img src="https://user-images.githubusercontent.com/91832107/280463883-586aac04-1caa-4f94-8ccd-4df97e100616.png" width="200" style="max-width:100%;">
