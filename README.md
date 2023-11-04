@@ -1,5 +1,7 @@
 # Synapsis Survey Apps
 
+### This is a challenge for a mobile developer internship at Synapsis.id, involving the creation of a survey application.
+
 ## Setup
 
 Run the following commands from your terminal:
