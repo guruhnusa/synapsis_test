@@ -2,6 +2,13 @@
 
 ### This is a challenge for a mobile developer internship at Synapsis.id, involving the creation of a survey application.
 
+## Demo
+
+![GIF](https://user-images.githubusercontent.com/91832107/280464930-ce516522-b35b-4722-b092-140ecc01b60a.gif)
+
+Full demo :
+https://drive.google.com/drive/folders/1uKcKc4x56Vx2XiwfGWsBQ-J_erNgZ4E2
+
 ## Setup
 
 Run the following commands from your terminal:
@@ -19,12 +26,6 @@ Run the following commands from your terminal:
 - get_storage: 2.1.1
 - intl: 0.18.1
 
-## Demo
-
-![GIF](https://user-images.githubusercontent.com/91832107/280464930-ce516522-b35b-4722-b092-140ecc01b60a.gif)
-
-Full demo :
-https://drive.google.com/drive/folders/1uKcKc4x56Vx2XiwfGWsBQ-J_erNgZ4E2
 
 ## Screenshot
 
